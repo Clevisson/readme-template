@@ -41,7 +41,7 @@ npm test
 ## Release History
 
 * 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
+    * CHANGE: Update docs (module code remains untouched/unchanged)
 * 0.2.0
     * CHANGE: Remove `setDefaultXYZ()`
     * ADD: Add `init()`
